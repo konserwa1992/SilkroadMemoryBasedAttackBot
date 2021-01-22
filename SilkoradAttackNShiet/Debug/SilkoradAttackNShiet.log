@@ -1,4 +1,0 @@
-﻿  dllmain.cpp
-C:\Users\gregor\source\repos\SilkoradAttackNShiet\SilkoradAttackNShiet\dllmain.cpp(238,23): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\gregor\source\repos\SilkoradAttackNShiet\SilkoradAttackNShiet\dllmain.cpp(243,13): warning C4477:  „printf”: ciąg formatu „%04x” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „void *”
-  SilkoradAttackNShiet.vcxproj -> C:\Users\gregor\source\repos\SilkoradAttackNShiet\Debug\SilkoradAttackNShiet.dll

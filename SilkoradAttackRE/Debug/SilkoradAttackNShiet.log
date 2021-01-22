@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (SilkoradAttackNShiet.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  pch.cpp
+  dllmain.cpp
+C:\Users\gblaszczynski\source\repos\TEST i nauka\SilkroadMemoryBasedAttackBot\SilkoradAttackNShiet\dllmain.cpp(220,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\gblaszczynski\source\repos\TEST i nauka\SilkroadMemoryBasedAttackBot\SilkoradAttackNShiet\dllmain.cpp(225,13): warning C4477: „printf”: ciąg formatu „%04x” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „void *”
+  SilkoradAttackNShiet.vcxproj -> C:\Users\gblaszczynski\source\repos\TEST i nauka\SilkroadMemoryBasedAttackBot\Debug\SilkoradAttackBot.dll
